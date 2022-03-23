@@ -1,0 +1,597 @@
+h1 {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+p {
+  margin-top: 0%;
+  margin-bottom: 0%;
+}
+.two {
+  color: black;
+  display: inline-flex;
+}
+.Hero {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin-top: 100px;
+  margin-left: 160px;
+  margin-right: 160px;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+.hero-yt {
+  margin-bottom: 0%;
+}
+.hero-part-h1 {
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  font-weight: 800;
+  font-size: 27px;
+  letter-spacing: -2.5px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.hero-part-p {
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  color: black;
+  font-size: 20px;
+  --mobile-font-size: 16px;
+  --line-height: 1.4;
+  --mobile-line-height: 21px;
+  color: #6b6f76;
+}
+.engineers {
+  width: 300px;
+  background: linear-gradient(135deg, #ffcc33 0%, #e233ff 100%);
+  background-image: linear-gradient(
+    135deg,
+    rgb(255, 204, 51) 0%,
+    rgb(226, 51, 255) 70%
+  );
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-color: initial;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  font-weight: 650;
+}
+.deliver {
+  background: linear-gradient(135deg, #ffcc33 0%, #e233ff 100%);
+  background-image: linear-gradient(
+    135deg,
+    rgb(255, 204, 51) 0%,
+    rgb(226, 51, 255) 100%
+  );
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-color: initial;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-box-decoration-break: clone;
+  margin-left: 10px;
+  font-weight: 650;
+}
+.Recruit {
+  font-weight: 650;
+}
+.who {
+  font-weight: 650;
+}
+.img {
+  width: 600px;
+}
+.p-one {
+  padding-bottom: 40px;
+}
+.p-two {
+  display: inline-flex;
+}
+.ex-YC {
+  margin-left: 6px;
+  color: #6968f7;
+  font-weight: 700;
+}
+.p-four {
+  padding-top: 40px;
+}
+.build-button {
+  background: linear-gradient(
+    135deg,
+    rgb(102, 153, 255) 0%,
+    rgb(255, 51, 102) 100%
+  );
+  background-image: linear-gradient(
+    135deg,
+    rgb(102, 153, 255) 0%,
+    rgb(255, 51, 102) 100%
+  );
+  background-position-x: initial;
+  background-position-y: initial;
+  background-size: initial;
+  background-repeat-x: initial;
+  background-repeat-y: initial;
+  background-attachment: initial;
+  background-origin: initial;
+  background-clip: initial;
+  background-color: initial;
+  padding-top: 12px;
+  padding-right: 20px;
+  padding-bottom: 12px;
+  padding-left: 20px;
+  border-top-left-radius: 999px;
+  border-top-right-radius: 999px;
+  border-bottom-right-radius: 999px;
+  border-bottom-left-radius: 999px;
+  color: rgb(255, 255, 255);
+  border: none;
+  box-shadow: 0 10px 20px -10px #b664b0;
+  margin-top: 50px;
+  font-size: 16px;
+  font-weight: bolder;
+}
+.trusted-by {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  color: #282a30;
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+}
+.content-one {
+  margin-top: 70px;
+}
+.img-wrap-xt {
+  width: 150px;
+}
+.img-wrap-yt {
+  width: 140px;
+}
+.img-wrap-qt {
+  width: 130px;
+  margin-right: 30px;
+}
+.img-wrap-wt {
+  width: 120px;
+  margin-right: 30px;
+}
+.img-wrap-rt {
+  width: 120px;
+}
+.img-wrap {
+  margin-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Slider-wrap {
+  width: 70%;
+  height: 400px;
+  margin-right: 0%;
+  margin-left: 0%;
+  padding-left: 0%;
+  padding-right: 0%;
+}
+.Slider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+}
+.content-wrap {
+  display: grid;
+  grid-template-columns: auto auto;
+  /* ... */
+}
+.content-two {
+  width: 56%;
+  margin-top: 300px;
+  margin-right: 0%;
+  margin-left: 0%;
+}
+.content-two-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content-three {
+  width: 56%;
+  margin-top: 100px;
+  margin-right: 0%;
+  margin-left: 0%;
+}
+.content-three-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content-four {
+  width: 56%;
+  margin-top: 100px;
+  margin-right: 0%;
+  margin-left: 0%;
+}
+.content-four-main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.content-img {
+  width: 440px;
+}
+
+.content-xt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+.p-c {
+  font-size: 21px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.content-h1 {
+  font-size: 20px;
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  font-weight: bolder;
+}
+.content-p {
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  color: #6b6f76;
+}
+.p-c-four {
+  padding-top: 20px;
+}
+.build-main {
+  background-image: linear-gradient(white, rgb(255, 122, 144));
+  width: 70%;
+  height: 600px;
+  position: relative;
+  padding-left: 50px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  display: grid;
+  grid-template-columns: auto auto;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+}
+.build {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+.img-build {
+  width: 350px;
+  margin-top: 60px;
+}
+.h1-build {
+  font-size: 50px;
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  font-weight: 900;
+  letter-spacing: -2.5px;
+  color: white;
+}
+.footer-img {
+  width: 130px;
+}
+.footer-p {
+  font-size: 15px;
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  color: #6b6f76;
+}
+.footer-main {
+  width: 1100px;
+  display: grid;
+  grid-template-columns: auto auto;
+}
+.footer-xt {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.todo {
+  display: inline-flex;
+}
+.founders-a {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+a {
+  text-decoration: none;
+  color: #6b6f76;
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+}
+.twitter-id {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-weight: 700;
+}
+.header-img {
+  width: 40px;
+  height: 40px;
+  padding-top: 15px;
+}
+.header-h2 {
+  font-family: Inter, Helvetica, Apple Color Emoji, Segoe UI Emoji,
+    NotoColorEmoji, Noto Color Emoji, Segoe UI Symbol, Android Emoji,
+    EmojiSymbols, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto,
+    Helvetica Neue, Noto Sans, sans-serif;
+  padding-left: 10px;
+}
+.header-xt {
+  display: inline-flex;
+  margin-right: 50px;
+}
+.header-main {
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-around;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.04);
+}
+.header-yt {
+  margin-top: 24px;
+}
+.contact {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.header-zt {
+  /* display: flex;
+  justify-content: flex-end; */
+
+  margin-top: 24px;
+}
+.header {
+  width: 100%;
+}
+
+@media only screen and (max-width: 820px) {
+  .footer-p {
+    margin-bottom: 100px;
+  }
+  .footer-main {
+    padding-left: 50px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .build-main {
+    width: 100%;
+  }
+  .img-build {
+    padding-left: 50px;
+    width: 300px;
+  }
+  .embed {
+    width: 90%;
+  }
+  .h1-build {
+    padding-right: 70px;
+  }
+  .Hero {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 100px;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+  }
+
+  .hero-ty {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-top: 20px;
+    padding-right: 15px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+  }
+  .two {
+    color: black;
+    display: table;
+  }
+  .deliver {
+    margin-left: 0px;
+  }
+  .img {
+    width: 400px;
+  }
+  .img-wrap {
+    display: grid;
+    grid-template-rows: 80px 80px 80px 80px 80px;
+  }
+  .img-wrap-qt {
+    width: 130px;
+  }
+  .img-wrap-wt {
+    width: 120px;
+    margin-left: 10px;
+  }
+  .content-two {
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 30px;
+  }
+  .content-img {
+    width: 355px;
+  }
+  .content-three {
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 30px;
+  }
+  .content-four {
+    width: 100%;
+    margin-left: 50px;
+    margin-right: 30px;
+  }
+}
+@media only screen and (max-width: 820px) {
+  .Hero {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .img {
+    width: 100%;
+  }
+  .footer-p {
+    margin-bottom: 100px;
+  }
+  .footer-main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+@media only screen and (max-width: 770px) {
+  .build {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+  }
+  .build-main {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .img-build {
+    padding-left: 50px;
+    width: 300px;
+  }
+  .embed {
+    width: 90%;
+    height: 600px;
+  }
+  .h1-build {
+    padding-right: 0px;
+  }
+  .build-xt {
+    margin-left: 100px;
+  }
+}
+@media only screen and (max-width: 417px) {
+  .Hero {
+    margin-top: 50px;
+  }
+  .hero-part-h1 {
+    font-size: 20px;
+  }
+  .hero-part-p {
+    font-size: 13px;
+  }
+  .two {
+    display: inline-flex;
+  }
+  .deliver {
+    margin-left: 10px;
+  }
+  .Slider-wrap {
+    width: 100%;
+  }
+  .content-wrap {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  .content-img {
+    width: 300px;
+  }
+  .p-c {
+    font-size: 17px;
+  }
+  .content-h1 {
+    font-size: 15px;
+  }
+  .build {
+    margin-left: 0%;
+    margin-right: 0%;
+    padding-left: 0%;
+    padding-right: 0%;
+    width: 100%;
+  }
+  .build-main {
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 30px;
+  }
+  .img-build {
+    width: 300px;
+    padding-left: 0px;
+  }
+  .embed {
+    width: 90%;
+    height: 600px;
+  }
+  .h1-build {
+    padding-right: 0px;
+    font-size: 35px;
+    padding-left: 10px;
+  }
+  .build-xt {
+    margin-left: 0px;
+  }
+  .footer-p {
+    margin-bottom: 100px;
+  }
+  .footer-main {
+    padding-left: 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+}
