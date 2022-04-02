@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/refine/static/css/main.f0084e82.css",
+    "main.js": "/refine/static/js/main.d17d6f37.js",
+    "index.html": "/refine/index.html",
+    "main.f0084e82.css.map": "/refine/static/css/main.f0084e82.css.map",
+    "main.d17d6f37.js.map": "/refine/static/js/main.d17d6f37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0084e82.css",
+    "static/js/main.d17d6f37.js"
+  ]
+}
